@@ -11,4 +11,5 @@
    What happens when we try to add values to T1 such that the value being inserted in C1 does not exist in C2?
 
 3. Try to alter a table's column and add AUTO_INCREMENT to a column later. What value does the next insert pick for that given column?
-4. 
+4. What happens if we delete a row from a table having AUTO_INCREMENT contraint on a column? Will it rearrange the numbering?
+5. 
