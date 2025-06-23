@@ -12,4 +12,8 @@
 
 3. Try to alter a table's column and add AUTO_INCREMENT to a column later. What value does the next insert pick for that given column?
 4. What happens if we delete a row from a table having AUTO_INCREMENT contraint on a column? Will it rearrange the numbering?
-5. 
+5. How can I add on delete cascade constraint on an existing column of a table?
+6. How does on delete cascade works?
+7. What does SHOW CREATE TABLE table_name do?
+
+
