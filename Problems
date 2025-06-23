@@ -6,3 +6,9 @@
    CHECK
    DEFAULT
    AUTO_INCREMENT
+
+2. There is a table(T1) which has a column(C1) which refrences another table's(T2) column(C2). 
+   What happens when we try to add values to T1 such that the value being inserted in C1 does not exist in C2?
+
+3. Try to alter a table's column and add AUTO_INCREMENT to a column later. What value does the next insert pick for that given column?
+4. 
