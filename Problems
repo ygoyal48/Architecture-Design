@@ -15,5 +15,14 @@
 5. How can I add on delete cascade constraint on an existing column of a table?
 6. How does on delete cascade works?
 7. What does SHOW CREATE TABLE table_name do?
+8. How do transactions work in MySQL? 
+9. Experiment with all isolation levels for the transactions.
+10. 
+
+
+
+
+Write a Java Program to interact with Mysql using JDBC
+Write a Java Program to rollback the state to previous in case of invalid state in a transaction. 
 
 
