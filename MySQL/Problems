@@ -21,7 +21,7 @@
 11. How does locking work in SERIALIZABLE isolation level?
 12. How can we backup and restore database using mysqldump?
 13. Does this backup take care of the column values such as NOW(); 
-14. Use bin log to restore a dropped database. 
+14. Use bin log to restore a dropped database. | -> we can use SHOW BINARY LOG STATUS to get the position or see the bin log file.
 15. Can I perform backup and restore using mysqldump if bin file is not enabled? -- Yes
 16. Can Mysql be used for unstructured data? - Yes, we can insert JSON in Mysql tables.
 17. What is consistency in ACID ? -> You can use constraints to make sure data redundency is avoided or to put it - data consistency is maintaied. We can use on delete cascade to make sure that the 
@@ -33,6 +33,7 @@ I - We can set isolation levels for transaction
 D - Durability, Everything is persistent and writted on disk
 
 19. What is CRUD in MYSql/Databases?
+20. 
 
 
 
