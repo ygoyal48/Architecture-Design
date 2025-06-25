@@ -26,7 +26,13 @@
 16. Can Mysql be used for unstructured data? - Yes, we can insert JSON in Mysql tables.
 17. What is consistency in ACID ? -> You can use constraints to make sure data redundency is avoided or to put it - data consistency is maintaied. We can use on delete cascade to make sure that the 
 useless data in another table is also deleted. This is how using constraints, we can achieve data consistency. 
+18. Explain ACID in SQL 
+A - Atomicity - Either everything in a transaction happens or nothing happens
+C - Consistency can be maintained using constraints
+I - We can set isolation levels for transaction
+D - Durability, Everything is persistent and writted on disk
 
+19. 
 
 
 
