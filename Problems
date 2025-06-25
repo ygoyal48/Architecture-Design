@@ -20,6 +20,8 @@
 10. Do we need to set isolation level per transaction or per session? --> per transaction
 11. How does locking work in SERIALIZABLE isolation level?
 12. How can we backup and restore database using mysqldump?
+13. Does this backup take care of the column values such as NOW(); 
+
 
 
 
