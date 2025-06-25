@@ -32,7 +32,8 @@ C - Consistency can be maintained using constraints
 I - We can set isolation levels for transaction
 D - Durability, Everything is persistent and writted on disk
 
-19. 
+19. What is CRUD in MYSql/Databases?
+
 
 
 
