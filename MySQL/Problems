@@ -24,6 +24,8 @@
 14. Use bin log to restore a dropped database. 
 15. Can I perform backup and restore using mysqldump if bin file is not enabled? -- Yes
 16. Can Mysql be used for unstructured data? - Yes, we can insert JSON in Mysql tables.
+17. What is consistency in ACID ? -> You can use constraints to make sure data redundency is avoided or to put it - data consistency is maintaied. We can use on delete cascade to make sure that the 
+useless data in another table is also deleted. This is how using constraints, we can achieve data consistency. 
 
 
 
