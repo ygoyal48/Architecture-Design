@@ -23,6 +23,7 @@
 13. Does this backup take care of the column values such as NOW(); 
 14. Use bin log to restore a dropped database. 
 15. Can I perform backup and restore using mysqldump if bin file is not enabled? -- Yes
+16. Can Mysql be used for unstructured data? - Yes, we can insert JSON in Mysql tables.
 
 
 
