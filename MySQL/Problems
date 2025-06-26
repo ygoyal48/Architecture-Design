@@ -33,7 +33,8 @@ I - We can set isolation levels for transaction
 D - Durability, Everything is persistent and writted on disk
 
 19. What is CRUD in MYSql/Databases?
-20. 
+20. Write a Java program to create a Mysql table and insert rows into it. Also output the values in table.
+21. 
 
 
 
