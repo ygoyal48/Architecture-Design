@@ -37,7 +37,6 @@ D - Durability, Everything is persistent and writted on disk
 21. Write a Java program to use BLOB in Mysql from application layer.
 22. Write a Java program to use JSON in Mysql from application layer.
 23. Setup a project in MySQL to see how automatic failover is performed if master dies - how Mysql promotes the replica to the master. 
-https://dev.mysql.com/blog-archive/automatic-asynchronous-replication-connection-failover/
 
 
 
