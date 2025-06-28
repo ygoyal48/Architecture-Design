@@ -43,7 +43,3 @@ D - Durability, Everything is persistent and writted on disk
 
 
 
-Write a Java Program to interact with Mysql using JDBC
-Write a Java Program to rollback the state to previous in case of invalid state in a transaction. 
-
-
