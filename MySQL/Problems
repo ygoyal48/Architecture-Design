@@ -36,7 +36,8 @@ D - Durability, Everything is persistent and writted on disk
 20. Write a Java program to create a Mysql table and insert rows into it. Also output the values in table.
 21. Write a Java program to use BLOB in Mysql from application layer.
 22. Write a Java program to use JSON in Mysql from application layer.
-23. Setup a master slave replication of MySQL using Orchestrator.
+23. Setup a master slave replication of MySQL using Orchestrator. - No Auto Failover required
+24. How can indexes speed up ORDER BY, WHERE, GROUP BY and WHERE?
 
 
 
